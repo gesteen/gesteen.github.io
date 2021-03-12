@@ -91,8 +91,8 @@
 			wav:"audio/herregud.wav"
 		},
 		{
-			title:"hva-er-det-dere-holder-p�-med.wav",
-			wav:"audio/hva-er-det-dere-holder-p�-med.wav"
+			title:"hva-er-det-dere-holder-pa-med.wav",
+			wav:"audio/hva-er-det-dere-holder-pa-med.wav"
 		},
 		{
 			title:"hva-faen.wav",
@@ -195,8 +195,8 @@
 			wav:"audio/they-never-saw-what-comming.wav"
 		},
 		{
-			title:"trur-ikke-det-gar-an-�-fa-det-darligere.wav",
-			wav:"audio/trur-ikke-det-gar-an-�-fa-det-darligere.wav"
+			title:"trur-ikke-det-gar-an-a-fa-det-darligere.wav",
+			wav:"audio/trur-ikke-det-gar-an-a-fa-det-darligere.wav"
 		},
 		{
 			title:"vi-taper.wav",
